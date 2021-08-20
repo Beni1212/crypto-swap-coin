@@ -1,3 +1,7 @@
+
+@media screen and (min-width: 1441px) and (max-width: 2560px){ 
+    
+    
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 *{
@@ -4298,6 +4302,7 @@ span{
     -moz-animation: bounce 2s infinite;
     -webkit-animation: bounce 2s infinite;
     animation: bounce 2s infinite;
+}
 }
 
 
@@ -12996,8 +13001,8 @@ span{
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    width: 390px;
-    margin:40px 12px 0px 12px;
+    width: 350px;
+    margin:40px 13px 0px 12px;
 }
 
 .button{
@@ -13027,7 +13032,7 @@ span{
 }
 
 .buttonpop {
-    font-size: 10px;
+    font-size: 12px;
     font-weight: 900;
     text-transform: uppercase;
     color: white;
@@ -17411,7 +17416,7 @@ span{
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     width: 400px;
-    margin:40px 12px 0px 12px;
+    margin:40px 13px 0px 12px;
 }
 
 .button{
@@ -17429,7 +17434,7 @@ span{
     border-radius: 50%;
     border: 2px solid #fff;
     color: white;
-    font-size: 14px;
+    font-size: 10px;
     -webkit-box-shadow: -4px -2px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: -4px -2px 6px 0px rgba(0,0,0,0.1);
     box-shadow: -3px 1px 6px 0px rgba(0,0,0,0.1);
@@ -21868,7 +21873,7 @@ span{
 }
 
 .buttonpop {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 900;
     text-transform: uppercase;
     color: white;
@@ -26257,7 +26262,7 @@ span{
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     width: 1000px;
-    margin:40px 0px 0px 12px;
+    margin:40px 22px 0px 12px;
 }
 
 .button{
@@ -26287,7 +26292,7 @@ span{
 }
 
 .buttonpop {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 900;
     text-transform: uppercase;
     color: white;
@@ -30779,16 +30784,14 @@ span{
 
 /* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 *//* end media screen 1025 - 1440 */
 
-
-
-
-
-
-
-
-
-
-
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
