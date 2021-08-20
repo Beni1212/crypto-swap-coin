@@ -6499,6 +6499,7 @@ section {
     background: #fff;
     box-shadow: 0 0 2px 0 rgba(0,0,0,.15), 0 0 4px 0 rgba(0,0,0,.2), 0 12px 12px 0 rgba(0,0,0,.15);
     transition: box-shadow .2s ease-in-out; 
+    margin:50px 0px 50px 0px;
 }
 
 .card[draggable=true] {
@@ -6613,7 +6614,7 @@ section {
     padding:0px;
     width: 728px;
     height: 90px;
-    margin: 40px 0px;
+    margin: 40px 0px 30px 0px;
     justify-content: center;
 }  
 
@@ -6629,7 +6630,7 @@ section {
 
 .cryptosocialmediah1{
     color:goldenrod; 
-    margin: 30px 0px -20px 0px; 
+    margin: 30px 0px 10px 0px; 
     font-family: 'Julee', cursive; 
     font-size: 26px;
 }
