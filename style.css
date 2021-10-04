@@ -871,7 +871,6 @@ input:checked + .slider:before{
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    margin:0px 600px;
 }
 
 .emaillistbanner728x90{
@@ -1465,6 +1464,7 @@ img {
     flex-direction: column;
     overflow: hidden;
     border-radius: 33% 0% 0% 0%;
+    width: 100%;
 }
 
 .car_content {
@@ -1896,7 +1896,6 @@ section {
 } 
 
 #container .item{
-    width: 520px;
     height: auto;
     margin: 10px;
     background: #fff;
@@ -2057,14 +2056,12 @@ section {
 }
 
 .cardsocial {
-    display: inline-block;
-    float: left; /** optional, better alignment for multi-row use cases -> or use flexbox */ 
+    display: flex;
     background: #fff;
     box-shadow: 0 0 2px 0 rgba(0,0,0,.15), 0 0 4px 0 rgba(0,0,0,.2), 0 12px 12px 0 rgba(0,0,0,.15);
-    margin: 4.5rem 0rem 4.5rem 0rem;
     transition: box-shadow .2s ease-in-out; 
-    margin:100px 400px;
     justify-content: center;
+    margin: 50px 0px;
 }
 
 .card[draggable=true] {
@@ -2285,6 +2282,7 @@ img{
     line-height: 1.5;
     margin-bottom: 1.25rem;    
     font-weight: 400;
+    text-align: center;
 }
 
 .faucetscrypto728x90{
@@ -2618,6 +2616,7 @@ img{
     color:black;
     padding: 20px;
     font-size: 14px;
+    text-align: center;
 }
 
 .paymentt728x90{
@@ -2710,7 +2709,7 @@ img{
 	padding: 10px 0px 2px 0px;
 	background:green;
 	margin:20px 0px 0px 0px;
-    border-radius: 40%;
+    border-radius: 20% 20% 20% 0%;
 }
 
 .lazy_box .inner{
@@ -3085,8 +3084,8 @@ img{
 }
 
 .product-price-btn ul{
-    margin: 20px 0px 0px 0px;
-    padding: 20px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
     list-style: none;
     justify-content: center;
 }   
@@ -8533,8 +8532,8 @@ span{
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    width: 280px;
-    margin:40px 20px 0px 20px;
+    width: 300px;
+    margin:40px 10px 0px 10px;
 }
 
 .button{
@@ -8564,7 +8563,7 @@ span{
 }
 
 .buttonpop {
-    font-size: 8px;
+    font-size: 10px;
     font-weight: 900;
     text-transform: uppercase;
     color: white;
@@ -8611,7 +8610,7 @@ span{
 
 
 .popup{
-    width: 280px;
+    width: 425px;
     height: 100%;
     background: var(--clr4);
     bottom: 0px;
@@ -10739,8 +10738,9 @@ section {
 } 
 
 #container .item{
+    width: 220px;
     height: auto;
-    margin: 10px 0px 0px -70px;
+    margin: 10px 0px 0px 0px;
     background: #fff;
     padding: 30px 20px 65px;
     border-radius: 5px;
@@ -10753,7 +10753,7 @@ section {
 
 .games{
     display: block;
-    margin: 0px 0px 0px 75px;
+    margin: 0px 0px 0px 0px;
     width: 100%;
     padding: 0px;
     z-index: 2;
@@ -13007,8 +13007,8 @@ span{
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    width: 335px;
-    margin:40px 20px 0px 20px;
+    width: 350px;
+    margin:40px 13px 0px 12px;
 }
 
 .button{
@@ -13038,7 +13038,7 @@ span{
 }
 
 .buttonpop {
-    font-size: 11px;
+    font-size: 12px;
     font-weight: 900;
     text-transform: uppercase;
     color: white;
@@ -13085,7 +13085,7 @@ span{
 
 
 .popup{
-    width: 335px;
+    width: 425px;
     height: 100%;
     background: var(--clr4);
     bottom: 0px;
@@ -15219,7 +15219,7 @@ section {
 
 #container .item{
     height: auto;
-    margin: 10px 0px 0px -70px;
+    margin: 0px 0px 0px 0px;
     background: #fff;
     padding: 30px 20px 65px;
     border-radius: 5px;
@@ -15232,7 +15232,7 @@ section {
 
 .games{
     display: block;
-    margin: 0px 0px 0px 100px;
+    margin: 0px 0px 0px 0px;
     width: 100%;
     padding: 0px;
     z-index: 2;
@@ -17421,8 +17421,8 @@ span{
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    width: 385px;
-    margin:40px 20px 0px 20px;
+    width: 400px;
+    margin:40px 13px 0px 12px;
 }
 
 .button{
@@ -17452,7 +17452,7 @@ span{
 }
 
 .buttonpop {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 900;
     text-transform: uppercase;
     color: white;
@@ -17499,7 +17499,7 @@ span{
 
 
 .popup{
-    width: 385px;
+    width: 425px;
     height: 100%;
     background: var(--clr4);
     bottom: 0px;
@@ -19630,7 +19630,7 @@ section {
 
 #container .item{
     height: auto;
-    margin: 10px 0px 0px 30px;
+    margin: 0px;
     background: #fff;
     padding: 30px 20px 65px;
     border-radius: 5px;
@@ -19643,8 +19643,6 @@ section {
 
 .games{
     display: block;
-    margin: 0px 0px 0px 50px;
-    width: 100%;
     padding: 0px;
     z-index: 2;
 }
@@ -21848,8 +21846,8 @@ span{
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    width: 708px;
-    margin:40px 30px 0px 30px;
+    width: 700px;
+    margin:40px 35px 0px 35px;
 }
 
 .button{
@@ -21926,7 +21924,7 @@ span{
 
 
 .popup{
-    width: 708px;
+    width: 425px;
     height: 100%;
     background: var(--clr4);
     bottom: 0px;
@@ -26267,10 +26265,8 @@ span{
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    width: 960px;
-    margin:40px 30px 0px 30px;
-    display: block;
-    justify-content: center;
+    width: 1000px;
+    margin:40px 22px 0px 12px;
 }
 
 .button{
@@ -26300,11 +26296,11 @@ span{
 }
 
 .buttonpop {
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 900;
     text-transform: uppercase;
     color: white;
-    padding: 15px 25px;
+    padding: 10px 15px;
     margin:40px 0px 0px 0px;
     cursor: pointer;
     transition: all 300ms;
@@ -27190,7 +27186,6 @@ body.active .wrapper .section{
 
 .packages{
     margin: 40px;
-    width: 400px;
     padding-bottom: 1.5em;
     height: 100%;
     background-color: #1e2321;
@@ -29562,9 +29557,10 @@ img{
 
 .product-info{
     float: left;
-    width: 50%;
+    width: 20%;
     border-radius: 0 7px 10px 7px;
     background-color:wheat;
+    margin: 0px 20px;
 }
 
 .product-text h1{
@@ -29613,8 +29609,8 @@ img{
 }
 
 .product-price-btn ul{
-    margin: 20px 0px 0px 0px;
-    padding: 20px;
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
     list-style: none;
     justify-content: center;
 }   
@@ -29624,7 +29620,8 @@ img{
 }  
 
 .product-price-btn ul li a{
-    padding: 0px 20px 5px 20px;
+    padding: 0px 5px 5px 5px;
+    width: 100%;
     height: 40px;
     line-height: 40px;
     position: relative;
@@ -30596,11 +30593,11 @@ span{
     background-color: whitesmoke;
     text-align: center;
     position: relative;
-    margin:40px 90px 90px 70px;
+    margin:100px;
     -webkit-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     -moz-box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
     box-shadow: 0px 4px 6px 0px rgba(0,0,0,0.1);
-    width: 1250px;
+    width: 1200px;
 }
 
 .button{
@@ -36569,6 +36566,7 @@ img {
     cursor: pointer;
     border: 1px solid rgba(255, 255, 255, 0.2);
     background: transparent;
+
 }
 
 .btn:hover {
@@ -36594,6 +36592,7 @@ img {
     flex-direction: column;
     overflow: hidden;
     border-radius: 33% 0% 0% 0%;
+    width: 100%;
 }
 
 .car_content {
